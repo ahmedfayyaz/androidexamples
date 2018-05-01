@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentActivity</string>
+    <string name="chooser_title">Share</string>
+</resources>
